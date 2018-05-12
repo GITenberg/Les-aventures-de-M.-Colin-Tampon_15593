@@ -1,0 +1,35 @@
+_repo: Les-aventures-de-M.-Colin-Tampon_15593
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Girardin, Jules
+    alias: Girardin, J. (Jules)
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '6142'
+    url: http://www.gutenberg.org/2009/agents/6142
+description: "Les Aventures de M. Colin-Tampon is a novel written by Jules Girardin.\
+  \ The 4th edition, published in 1896, was illustrated by R. Tinant.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2005-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15593'
+  wikidata: Q6530121
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Hunting stories'
+- !lcsh 'Children''s stories, French'
+- !lcsh 'Humorous stories'
+title: Les aventures de M. Colin-Tampon
+url: http://www.gutenberg.org/ebooks/15593
+wikipedia:
+- https://en.wikipedia.org/wiki/Les_aventures_de_M._Colin-Tampon

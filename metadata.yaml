@@ -14,6 +14,8 @@ creator:
 description: "Les Aventures de M. Colin-Tampon is a novel written by Jules Girardin.\
   \ The 4th edition, published in 1896, was illustrated by R. Tinant.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15593#Les-aventures-de-M.-Colin-Tampon
 gutenberg_bookshelf: FR Jeunesse
 gutenberg_issued: '2005-04-09'
 gutenberg_type: Text
